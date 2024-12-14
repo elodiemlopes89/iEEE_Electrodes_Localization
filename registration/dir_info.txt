@@ -1,0 +1,4 @@
+cr_dir="/Users/lopeselodie/Desktop/GUIDE_final2/registration"
+inp_dir="/Users/lopeselodie/Desktop/GUIDE_final2/input"
+bet_dir="/Users/lopeselodie/Desktop/GUIDE_final2/do_BET"
+fsldir="/usr/local/fsl"
