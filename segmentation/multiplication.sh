@@ -1,0 +1,2 @@
+#!/bin/sh
+fslmaths /Users/lopeselodie/Desktop/GUIDE_final2/do_BET/MRI_brain.nii.gz -mul /Users/lopeselodie/Desktop/GUIDE_final2/segmentation/CT_seg.nii.gz /Users/lopeselodie/Desktop/GUIDE_final2/segmentation/CT_seg_mul.nii.gz
