@@ -13,7 +13,7 @@ We concluded that the neuroimaging tool created, can be widely used for 3D visua
 This tool was conducted under the Doctoral Program of Biomedic Engineering (Faculty of Engineering of University of Porto), under the PhD thesis "Novel Contributions to Personalized Brain Stimulation Biomarkers for Better Management of Neurological Disorders", supervised by Prof. João Paulo Cunha (INESC TEC, Porto, Portugal).
 
 ## Graphical User Interface
-The MATLAB Graphical User interface (GUI) provides a "point-and-click control" of many soft- ware applications. The GUI typically contains controls such as menus, toolbars, buttons, and sliders.
+The MATLAB Graphical User interface (GUI) provides a "point-and-click control" of many software applications. The GUI typically contains controls such as menus, toolbars, buttons, and sliders.
 
 In this project, 5 panels, 3 button groups, 5 pushbuttons, 1 slider, 1 static text and 1 edit text were added to the MATLAB GUI. The GUIs file was designated as "final_guide2.m". Prior to its use, the user must update the FSL directory name, fsldir, present in line number 259 of the mfile.
 
